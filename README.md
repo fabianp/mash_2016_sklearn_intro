@@ -43,7 +43,7 @@ repository is a much better option.
 
 
 ## Notebook Listing
-You can [view the tutorial materials](http://nbviewer.ipython.org/github/fabianp/mash_sklearn_intro/blob/master/notebooks/Index.ipynb) using the excellent nbviewer service.
+You can [view the tutorial materials](http://nbviewer.ipython.org/github/fabianp/mash_2016_sklearn_intro/blob/master/notebooks/Index.ipynb) using the excellent nbviewer service.
 
 Note, however, that you cannot modify or run the contents within nbviewer.
 To modify them, first download the tutorial repository, change to the notebooks directory, and run ``ipython notebook``.
@@ -55,5 +55,7 @@ directory structure of this tutorial, so it is important to clone the full
 repository if possible.
 
 ## Other resources
+
+Material from [last year's course](http://www.di.ens.fr/~slacoste/teaching/projet-MASH-2015/)
 
 See also the excellent [scikit-learn tutorial](https://github.com/jakevdp/sklearn_tutorial) by Jake Vanderplas.
