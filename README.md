@@ -1,6 +1,6 @@
 # Scikit-learn Tutorial
 
-*Fabian Pedregosa* and *Fajwel Fogel*, heavily based on Jake Vanderplas' [scikit-learn tutorial](https://github.com/jakevdp/sklearn_tutorial).
+*Fabian Pedregosa* and *Fajwel Fogel*.
 
 - email: <f@bianp.net>
 
@@ -53,3 +53,7 @@ For more information on the IPython notebook, see http://ipython.org/notebook.ht
 Note also that some of the code in these notebooks will not work outside the
 directory structure of this tutorial, so it is important to clone the full
 repository if possible.
+
+## Other resources
+
+See also the excellent [scikit-learn tutorial](https://github.com/jakevdp/sklearn_tutorial) by Jake Vanderplas.
