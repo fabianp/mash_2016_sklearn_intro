@@ -1,6 +1,6 @@
-# Scikit-learn Tutorial
+# MASH course Introduction to scikit-learn
 
-*Fabian Pedregosa* and *Fajwel Fogel*.
+Instructors: *Fabian Pedregosa* and *Fajwel Fogel*.
 
 - email: <f@bianp.net>
 
