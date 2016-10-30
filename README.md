@@ -1,4 +1,8 @@
-# MASH course Introduction to scikit-learn
+
+# Introduction to scikit-learn
+## Master M2: Mathématiques, Apprentissage et Sciences Humaines (MASH) 2016-2017 course 
+
+![](http://www.di.ens.fr/~aspremon/MASH/LogoMASH.png)
 
 Instructors: *[Fabian Pedregosa](http://fa.bianp.net)* and *[Fajwel Fogel](http://www.di.ens.fr/~fogel/)*.
 
