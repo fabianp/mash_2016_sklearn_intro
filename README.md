@@ -11,6 +11,24 @@ Instructors: *[Fabian Pedregosa](http://fa.bianp.net)* and *[Fajwel Fogel](http:
 This repository contains notebooks and other files associated with the MASH course introduction to
 [Scikit-learn](http://scikit-learn.org).
 
+## Notebook Listing
+You can view the teaching materials using the excellent nbviewer service.
+
+  * [00: Introduction to Python](https://nbviewer.jupyter.org/github/fabianp/mash_2016_sklearn_intro/blob/master/00-Intoduction%20to%20the%20Python%20language.ipynb)
+  * 01: Introduction to Pandas and scikit-learn
+  * [02: Supervised learning I](http://nbviewer.jupyter.org/github/fabianp/mash_2016_sklearn_intro/blob/master/02-Supervised%20learning%20I.ipynb)
+  
+
+Note, however, that you cannot modify or run the contents within nbviewer.
+To modify them, first download the tutorial repository, change to the notebooks directory, and run ``ipython notebook``.
+You should see the list in the ipython notebook launch page in your web browser.
+For more information on the IPython notebook, see http://ipython.org/notebook.html
+
+Note also that some of the code in these notebooks will not work outside the
+directory structure of this tutorial, so it is important to clone the full
+repository if possible.
+
+
 ## Installation Notes
 This tutorial requires the following packages:
 
@@ -46,17 +64,6 @@ the repository in the days before the tutorial, however, so cloning the
 repository is a much better option.
 
 
-## Notebook Listing
-You can [view the tutorial materials](http://nbviewer.ipython.org/github/fabianp/mash_2016_sklearn_intro/blob/master/notebooks/Index.ipynb) using the excellent nbviewer service.
-
-Note, however, that you cannot modify or run the contents within nbviewer.
-To modify them, first download the tutorial repository, change to the notebooks directory, and run ``ipython notebook``.
-You should see the list in the ipython notebook launch page in your web browser.
-For more information on the IPython notebook, see http://ipython.org/notebook.html
-
-Note also that some of the code in these notebooks will not work outside the
-directory structure of this tutorial, so it is important to clone the full
-repository if possible.
 
 ## Other resources
 
