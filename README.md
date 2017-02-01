@@ -17,7 +17,7 @@ You can view the teaching materials using the excellent nbviewer service.
   * [00: Introduction to Python](https://nbviewer.jupyter.org/github/fabianp/mash_2016_sklearn_intro/blob/master/00-Intoduction%20to%20the%20Python%20language.ipynb)
   * 01: Introduction to Pandas and scikit-learn
   * [02: Supervised learning I](http://nbviewer.jupyter.org/github/fabianp/mash_2016_sklearn_intro/blob/master/02-Supervised%20learning%20I.ipynb)
-  
+  * etc. (see github page)
 
 Note, however, that you cannot modify or run the contents within nbviewer.
 To modify them, first download the tutorial repository, change to the notebooks directory, and run ``ipython notebook``.
